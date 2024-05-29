@@ -3,3 +3,5 @@
 ### Arreglé unos errores del codigo
 
 ## Mas codigo
+
+## Se me ocurrio otra función
