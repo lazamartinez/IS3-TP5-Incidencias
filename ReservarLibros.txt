@@ -1,1 +1,5 @@
 ## Implementacion de reservar libros
+
+### Arreglé unos errores del codigo
+
+## Mas codigo
